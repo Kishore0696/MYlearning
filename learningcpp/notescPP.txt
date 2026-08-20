@@ -1,3 +1,8 @@
 
 STRINGS:
  use .length() function to get the length of a string
+ we can use 1.for loop with index
+            2.for enhanced for(char c:a)
+            3.string iterator for(string::iterator hi=a.begin(); hi!=a.end(); hi++)
+            4.while loop with i<str.length() condition
+to iterate through a string in c++
