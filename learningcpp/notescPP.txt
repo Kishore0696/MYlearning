@@ -6,3 +6,8 @@ STRINGS:
             3.string iterator for(string::iterator hi=a.begin(); hi!=a.end(); hi++)
             4.while loop with i<str.length() condition
 to iterate through a string in c++
+
+Characters	ASCII Range
+'0' – '9'	48 – 57
+'A' – 'Z'	65 – 90
+'a' – 'z'	97 – 122
