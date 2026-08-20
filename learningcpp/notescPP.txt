@@ -1,0 +1,3 @@
+
+STRINGS:
+ use .length() function to get the length of a string
