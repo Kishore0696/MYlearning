@@ -1,4 +1,4 @@
-package arraylistinjava;
+package javacollectionframwork;
 import java.util.*;
 public class arraylistintro
 {
